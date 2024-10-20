@@ -82,7 +82,7 @@ body {
 
 
 .front {
-  background-image: url("../images/white.jpeg");
+  background-image: url("./images/white.jpeg");
   display: flex;
   flex-direction: column;
   justify-content: center;
